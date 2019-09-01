@@ -1,2 +1,4 @@
 # blog_index
-welcome visite my blog : https://www.ersaijun.cn
+
+- My bolg file
+- welcome visite my blog : https://www.ersaijun.cn
